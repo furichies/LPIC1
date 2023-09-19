@@ -1,0 +1,95 @@
+Concepto de kernel y de GNU/linux
+Software Libre /open source
+Metodología: 
+Virtualización - Virtualbox
+
+
+OPCIONES
+formatos derfnir la opción. 
+- formato unix
+-- formato gnu
+opcion - formato bsd
+
+
+Virgulilla - hace referencia al directorio de trabajo del usuario
+/usr UNIx source - windows/system32
+
+TIPO RUTA PATH
+Absoluta - comienza por /
+relativa - no comienza por /
+
+TODO SON FICHEROS
+directorios - d
+ficheros regulares - -
+enlaces simbólicos - l
+sockets - s
+pipes - p
+dispositivos bloque - b
+dispositivos caracter - c
+
+Petición de ayuda
+ usar opción --help -h 
+ usar help  - muestra ayuda de comandos internos
+ usar el manual - man 
+ usar el comando info - 
+ Recurrir a la comunidad en XXXXXX
+
+
+Comandos internos - son funciones de un binario 
+shell - bash  Bourne again shell
+- Bourne sh - csh -ksh korn -zsh 
+
+Estructura de ejecución comando
+estructura de directorios 
+ayuda 
+Tipos de ficheros
+
+bash - proceso
+Procesos - credenciales - seguridad usuarios grupos
+
+Carcateres especiales en la línea de comandos
+| - la salida de un comando se pasa a otro
+; separador de ejecuciones
+$ - inidcador de variable
+
+REDIRECCIONES
+entrada estandar - stdin - 0 <
+salida estaandar - stdout - 1 > AGREGAR CONTENIDO >>
+error estandar - stderr - 2
+carga de buffer - << CADENA
+<<< here document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
