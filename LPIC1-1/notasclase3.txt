@@ -1,0 +1,97 @@
+jerarquía de directorios
+/
+manejo básico - combianciones de teclas
+tipos de ficheros
+Caracteres especiales del shell 
+< 0
+> 1
+2 >
+>> agregar 
+<< cadena <<<
+| - recibir entrada de otro comando
+comandoi manipulación de ficheros 
+creamos - borramos
+sistema de ficheros - ext4 XFS NTFS UFS ZFS BTRFS
+inodo - nodo i
+espacio de almacenamiento para poder identificar un fichero
+fichero regular 
+modo (permisos) enlaces, credenciales, time, 
+punteros de datos
+bloques de almacenamiento de datos directos
+punteros directops, indirectos, dobles , triples, 
+bloque que apunta a otros bloques
+
+B ---> BB simple
+B ---> BBB
+Directorio
+inodo
+datos - inodos con nombre 
+/home/curso - 1000
+	
+	1002 fichero1
+	1003 fichero
+ENLACES DUROS NECESITAN EL MISMO INODO - FS sistema de ficheros
+
+permisos predeterminados empŕiricos
+directorio -755
+simbólico -- 777
+fichero regular - 644
+
+permisos teóricos
+directorio -777 - 0000 777
+simbólico -- 777
+fichero regular - 666 -0000 666
+
+MODE 4 dígitos
+modo especial 
+4 - suid - los ususarios que tienen permiso de ejecución usan las creadenciales del propietario
+2 - sgid - los ususarios que tienen permiso de ejecución usan las credenciales del grupo principal
+1 - sticky bit - Los usuarios que tienen control total (FC) (RWX) sobre un directorio, no tengan capacidad de borrado sobre ficheros que no son de su propiedad
+
+modificar una password de una cuenta de usuario - escritura en el fichero /etc/shadow
+
+alias creación y descarga (unalias) 
+-> ananlizar su existencia en el procesamiento d ela línea de comandos.
+
+comando ficheros
+cp mv 
+cat - tac 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
