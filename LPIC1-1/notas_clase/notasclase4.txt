@@ -1,0 +1,56 @@
+repaso de algunos comandos relacionados con formato texto
+Permisos
+modos simbólico y modo octal
+permisos especiales - suid sgid sticky bit
+head tailqcut
+camandos de filtro - grep 
+comasndos edición sed
+comandos discrimanción contenido awk cut
+Comillas: como las interpreta el shell
+"" - comillas dobles - interpreta una string con expansión de variables
+'' - comillas simples - literal 
+`` - contracomillas - tilde francesa - ejecución de un comando 
+Nota: uso de contracomillas sustituido por $()
+VARIABLE
+identifica, llamada usando el dolar $
+set - muestra variables 
+creación de variables locales
+export - variables de entorno en subprocesos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
