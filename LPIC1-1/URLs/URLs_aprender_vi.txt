@@ -1,0 +1,15 @@
+Guía, listado y práctica rápida de comandos
+
+https://blyx.com/public/docs/curso-linux-principiantes/vi1.html
+
+GAMIFICACIÓN
+https://vim-adventures.com/
+
+https://www.openvim.com/
+
+http://www.vimgenius.com/
+
+https://vimsnake.com/
+
+
+
