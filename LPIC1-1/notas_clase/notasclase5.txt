@@ -1,0 +1,102 @@
+devops
+git
+control de versiones
+infraestructura coimo código
+vagrant 
+
+Procesos memoria, prioridades, 
+sistema de ficheros especial /proc - tools
+ps 
+JID - job id - trabajo proceso en segundo plano desde termianl de ejecución
+PID - identificador de proceso
+
+
+
+  ls /proc	
+  
+  jobs - visualición trabajos con jid símbolo %
+  bg %n - cambia el estado de stop a run de un job
+  fg %n - trae a la terminal el trabajo en segundo plano
+  
+  comandso kill - envía señales
+  kill -l  - lista señales
+  1 - HUP - recargar la configuración d elos servicios (demonios)
+  2 - INT - deteiene el proceso
+  15 - TERM - termina el proceso
+  9 - KILL - zombie - es una señal inevitable
+   --- trap 2 - no haga nada es posible evitar el significado de las señales excepto la 9
+   
+   daemon - demonios - nombredeservicio terminado en d ej: sshd
+   ==== anotación
+   multiplexores de terminal - tmux - un shell 
+   
+   ==============================================
+   ps - visualización de recursos de procesos
+   scheduler - sincronizacón de procesamiento
+   cgroups
+   
+   INSTALACIÓN DE PAQUETES
+   rama redhat - rpm -rpm como comando /aplicación que gestiona paquetes rpm 
+   rama debian - deb - dpkg comando que gestiona paquetes deb 
+   suse -rpm
+   windows - msi - msiexec
+   ficheros tar.gz -- tarballs
+   paquete - ficheros para instalar - depencias
+   
+   
+   herramientas de administración de aplicaciones - gestión de paquete y las dependencias
+   rama redhat - yum dnf
+   rama debian - apt 
+   arch - pacman
+   suse - zypper yast
+   
+   repositorios - almacen de software catálogo
+   apt update 
+   && - AND 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
