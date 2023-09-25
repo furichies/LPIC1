@@ -1,0 +1,69 @@
+instalar ubuntu -
+comunicación interactiva - idioma teclado 
+que paquetes queqeueremos instalar
+credenciales - curso
+espacio de almacenamiento - discos particiones, cargador grub
+
+Interfaz de línea de comandos  -
+estructura de directorios - tipos de ficheros - manipulación de ficheros 
+permisos - chmod
+procesos - ps kill top - htop 
+Instalación - debian deb dpkg - gestor de aplicaciones apt
+	rama red hat rpm - rpm - dnf /yum 
+	
+	
+	apt 
+	dnf 
+	DEPENDENCIAS
+	snap 
+	contenedores
+	app - dependencias - lxd 
+	flatpak
+	
+	software tareas arranque de un sistema (firmware)BIOS -MBR
+		UEFI - más posibilidades - particionamiento y de herramientas d gestión . EFI
+		
+Bridge - puente - interfaz virtual pero con acceso físico a la red 
+NAT - Network address translation - utilizar direcciones privadas para acceso a redes públicas - redes privads )172.16.0.0/12 192.168 10.0.0.0/8 - 
+DHCP - 
+		
+		PARTICIONES
+MBR - Master boot record - 4 particiones - primaria (aquella de la que puede boot un SO), Secundaria esclava , partición extendida 
+GPT - UEFI - 128 particiones 
+
+reconocimiento de los discos - tecnologías - PATA (IDE) - SATA - SCSI - NVME - 
+
+/dev/sda - dispositivo (dev), sd (scsi disk, sata disk, ) a (indica el orden de reconocimiento de discos - analogía numérica 1 Primer disco)
+/dev/sdb
+
+Cargador de arranque GRUB GRUB2  - Lilo - 
+Apertura de terminales - Virtualbox - CTRL derecho + tclas de función F1 
+PARTICIONAMIENTO
+1.- reconocimiento de almacenamiento - automático
+2.- Creamos tipo de tabla de particiones - fdisk
+3.- Crearemos las particiones - geometría de discos mecánimos. HD <> SSD -fdisk 
+4.- Asignar un FS - xfs, ext4, fat, btrfs, zfs, jfs ... mkfs
+5.- Presentación del FS en la jerarquía - montaje -mount 
+6.- Hacer el punto de montaje permanente - /etc/fstab
+
+VOLÚMENES
+conjunto de particiones o de discos LVM
+BTRFS - volúmenes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
