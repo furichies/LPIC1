@@ -35,8 +35,16 @@ INICIO del sistema
 2.- Identificación dispositivos selección de dispostivo de arranque - firmware BIOS/UEFI
 3.- Cargador de arranque - GRUB
 4.- Carga de initramfs -vmlinuz
-5.- Inicio - systemV init - systemd
+5.- Inicio - systemV init - systemd (alpine sysV, devuan ) 
 6- Interfaz - cli gui 
+
+VIRTUALIZACIÓN 
+hypervisor 2 - virtualbox app -iso 
+hypervisor 1 - proxmox
+contenedores - lxc , openvz, docker
+cloud - openstack, aws, azure , - gui - cli - imágenes preàradas para la virtualización (paravirtualización) 
+
+
 
 
 
