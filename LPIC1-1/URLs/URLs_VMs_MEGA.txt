@@ -1,1 +1,4 @@
 
+https://mega.nz/folder/jzQEDJhC#lUpFPGNzIkXy6RDtKkKTuA
+rocky9.7z - clon de Red Hat
+ubuntu_2204.7z - Derivado rama debian
