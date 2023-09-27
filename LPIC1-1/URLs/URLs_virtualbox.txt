@@ -1,0 +1,9 @@
+Manual 6.1 
+https://www.dis.ulpgc.es/documentacion/docs/CCDIS_Manual_utilizacion_VirtualBox_v12022021_CF.pdf
+
+Descarga
+https://www.virtualbox.org/wiki/Downloads
+(no olvidar extension pack)
+doc técnica
+
+https://www.virtualbox.org/wiki/Technical_documentation
