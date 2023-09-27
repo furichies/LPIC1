@@ -1,0 +1,6 @@
+Descarga 
+https://www.proxmox.com/en/downloads
+
+manual 
+
+https://pve.proxmox.com/pve-docs/
