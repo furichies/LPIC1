@@ -1,0 +1,24 @@
+INICIO del sistema
+sysv - init - inittab - runlevel - Debian 7
+systemd - systemd - units - servicios, montajes, sockets, timers, 
+=====
+crear una instancia en la nube
+ssh -telnet
+cliente - servidor - manera segura
+seguridad certificados de clave pub/priv
+cliente petición de conexión - recibe del servidor una clave pública (fingerprint)
+métodos de autenticación - password 
+usando certtificados
+seguridad asimétrica
+publica - pub - cifra conexión - key privada 
+ssh-keygen -t rsa -b 4096
+ssh-copy-id -i ruta_certificadoPublico servidor
+
+Iaas
+PaaS
+======================================00
+particiones - fdisk 
+volumenes - LVM 
+BTRFS - ZFS - Volúmenes y FT RAID Redudant array independent disk
+
+
