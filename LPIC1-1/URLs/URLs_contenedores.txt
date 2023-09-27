@@ -1,0 +1,11 @@
+¿Qué son?
+https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo
+
+LXC
+https://es.wikipedia.org/wiki/LXC
+https://linuxcontainers.org/
+https://elpuig.xeill.net/Members/vcarceler/articulos/contenedores-con-lxd-lxc
+
+docker
+https://www.redhat.com/es/topics/containers/what-is-docker?sc_cid=7013a0000026OSAAA2&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-dGS6ToGdpKq_qCOkkTvBbEfXZm_cca_n9gXVbglbPa7_mtEWqnbsaAjcCEALw_wcB&gclsrc=aw.ds
+https://www.docker.com/
