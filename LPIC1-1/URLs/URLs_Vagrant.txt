@@ -1,0 +1,11 @@
+¿Qué es vagrant?
+
+https://es.wikipedia.org/wiki/Vagrant_(software)
+
+Manual
+https://developer.hashicorp.com/vagrant/docs
+
+Vagrant Cloud. imágenes. 
+
+https://app.vagrantup.com/boxes/search
+
