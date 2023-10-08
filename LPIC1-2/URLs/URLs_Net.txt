@@ -1,0 +1,15 @@
+Identificación de interfaz de red 
+https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/consistent-network-interface-device-naming_configuring-and-managing-networking#doc-wrapper
+
+Netplan (ubuntu)
+https://ubuntu.com/core/docs/networkmanager/networkmanager-and-netplan
+
+¿Qué es YAML? (netplan -- ubuntu
+https://es.wikipedia.org/wiki/YAML
+
+IP estática en ubuntu 22.04
+https://kifarunix.com/configure-static-ip-addresses-using-netplan-on-ubuntu/
+
+Red HAt
+https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/configuring-ip-networking-with-ifcfg-files_configuring-and-managing-networking
+https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/configuring-an-ethernet-connection_configuring-and-managing-networking

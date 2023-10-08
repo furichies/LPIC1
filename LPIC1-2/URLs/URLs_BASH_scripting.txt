@@ -1,0 +1,15 @@
+Bash: el manual 
+https://www.gnu.org/software/bash/manual/bash.pdf
+
+básico bash 
+http://lsi.vc.ehu.es/pablogn/docencia/manuales/Shell%20Bash%20IC/apuntessolinux-150106204114-conversion-gate01.pdf
+
+Bash scripting basic
+https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes
+
+Scripting
+
+http://lsi.vc.ehu.es/pablogn/docencia/manuales/Shell%20Bash%20IC/apuntessolinux-150106204114-conversion-gate01.pdf
+
+Freecode
+https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
